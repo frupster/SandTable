@@ -8,7 +8,6 @@ https://github.com/user-attachments/assets/8324300e-bbec-4e45-8855-8b4679bafc36
 ##Inside of Table
 https://github.com/user-attachments/assets/42c2c108-ae61-4513-834d-dfa128082813
 
-##Outside of Table
 
 ## Wiring
 ![Image of Wiring Diagram](https://github.com/frupster/SandTable/blob/main/wiring.png)
