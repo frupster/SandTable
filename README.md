@@ -2,10 +2,10 @@
 This project uses a gantry system controlled by two Arduino Unos and a CNC shield to magnetically control a ball, making designs in the sand.
 
 
-##Outside of Table
+## Outside of Table
 https://github.com/user-attachments/assets/8324300e-bbec-4e45-8855-8b4679bafc36
 
-##Inside of Table
+## Inside of Table
 https://github.com/user-attachments/assets/42c2c108-ae61-4513-834d-dfa128082813
 
 
